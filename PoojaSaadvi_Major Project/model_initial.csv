@@ -1,0 +1,7 @@
+Model,SMOTE,ROC_AUC Score
+Logistic Regression,True,0.792672624873255
+Random Forest,True,0.9891854602473801
+XGBoost,True,0.9789040809071473
+Logistic Regression,False,0.8008016952431396
+Random Forest,False,0.8803515262687499
+XGBoost,False,0.9043731881803758
